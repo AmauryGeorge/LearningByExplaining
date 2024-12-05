@@ -1,0 +1,298 @@
+Question:   **(Optional)** What are the benefits of explaining to the chatbot?
+
+
+-- It forced me to review the material regularly and make sure i understood and was able to explain
+
+
+
+-- Chatbot replaces explaining recently learned concepts to another person by talking to a program.
+
+
+
+-- By explaining a concept one realizes which parts of the concept they understood and which not.
+
+
+
+-- Allows me to really spot the concepts where I lack understanding 
+
+
+
+-- Better understanding of the concepts that I think were managed by me, but indeed were not
+
+
+
+-- It helps to remember the course contents one more time because usually, the interaction I had with the chatbot was 2-3 days after the lecture.
+
+
+
+-- When you explain something the understanding of that subject is better and also trains you to be able to explain what you imagine in terms of comprehensible ideas
+
+
+
+-- it can help us to deepen the understanding
+
+
+
+-- While writing down the concept it is easier to spot any inconsistencies and mistakes.
+
+
+
+-- Explaining a concept to someone else is one of the best ways to understand it and the chatbot guides us through the explanation when we do miss a part.
+
+
+
+-- I think that by re-explaining to someone (chatbot in our case), it's easier to see with which concepts you're struggling, because your explanations are unclear and the chatbot doesn't quite get them.
+
+
+
+-- Good, but too long to write a full concept to a robot 
+
+
+
+-- I have a long history of depression which would always cause me to skip classes and procrastinate all the work until a week before the finals. Because of the weekly chatbot quizes, I had to study weekly to have at least the bare minimum idea of that week's lecture content, so I could push myself to study more consistently. This later helped me for both the midterm and the final because I already had a sufficent understanding of the subject even before starting the revision. The other good point was the fact that the quizes' importance in the overall grade was low (less stress and pressure) and that I could try as much as I want (it encouraged me to not be afraid of making mistakes and do it for learning rather than for getting a perfect grade). These two aspects made the concept of "quiz" less scary and overwhelming for my mental and I had a pleasant experience overall. I am sure others who are also going through a hard time would appreciate it too. 
+
+
+
+-- We have to recall information and think about it in steps. It makes us realize that we forgot parts of the material that we think we knew. It was a good idea to include it in the class but students probably wouldn't use it on their own unless it was as structured as in this class. 
+
+
+
+-- Reformulating a concept that can be complex and messy in our head into simple logical sentences. It allows me to better understand what is really happening
+
+
+
+-- Could see what I didn't properly understand.
+
+
+
+-- Can allow you to better pinpoint elements not fully understood
+
+
+
+-- It was really good for making sure I understood. After a lecture, sometimes I felt like I understood correctly but realised after the conversation with the bot that not.
+
+
+
+-- Explaining to someone helps formulating what we think we understood, forcing us to think further. Furthermore it corrects us if we have a wrong understanding of the material
+
+
+
+-- You have to reformulate the contents seen in class using your own words. So you not only review the content but possibly also gain a deeper understanding of the material and detect flaws in your understanding.
+
+
+
+-- We have a confirmation that we understand well the different subjects. Sometimes I thought I knew a topic and it reality I missed some of important points of it and the chatbot make me realize that.
+
+
+
+-- A deeper understanding of the course topics, since we have to understand well the concepts to explain them to the bot.
+
+
+
+-- It forces the student to think about the concept he will explain.
+
+
+
+-- It forces us to think clearly so that we can explain the concept clearly.
+
+
+
+-- Make sure I understood everything well.
+
+
+
+-- We always say that we really know a concept, an algorithm or a theory if WE are able to explain it to someone else. This is true, and explaining it to the chatbot helps to know whether we've understood the concepts or not. If not, the bot helps us to get in the correct direction.
+
+
+
+-- It helped me getting a better understanding of the materials. We can quickly see which knowledges should be deepened
+
+
+
+-- Practicing explaining concepts, and if not understood at first it allows to reformulate and let you understand which is the best way to explain concepts to others
+
+
+
+-- You need to recall the key concepts a few days after the course. It's a good way to test your knowledge. 
+
+
+
+-- its really good bc if you can explain it it mean you understand it. I already do it with either ppl or chat gpt, but having a bot that knows what its talks about is very good
+
+
+
+-- It could make me to review the knowledge that I have learned in class and encourage me to think it by myself.
+
+
+
+-- Its pleasant to finally have someone listening to me.
+
+
+
+-- -
+
+
+
+-- Better learning and better comprehension of complex topics
+
+
+
+-- It serves the same purpose as explaining your subject to a colleague or a friend; it forces you to actually verbalize what you think you understood about the subject, forcing you to simplify it. If you didn't understand the subject it does plays the same role as the rubber duck method and helps you understand the parts you blocked on.
+
+
+
+-- You can better understand the course instead of just doing a series. Also allows you to confront the limit case of the algorithm and see how to solve them
+
+
+
+-- You could try to explain to it what you understand with your own word and it answered with what it interpreted with what you told him. This make you realize if what you explain is somewhat clear and is going in the good direction.
+
+
+
+-- Forces you to avoid unprecise explanations
+
+
+
+-- You can reformulate your ideas and see if your understanding is in fact right
+
+
+
+-- A lot of the time I have only a high-level understanding of an an algorithm. After explaining my high level understanding to the chat bot ask some specific part on the algorithm to force me to dive deeper in the understanding of the algorithm. I think it's great since it improve my understanding 
+
+
+
+-- Using the chatbot helped me remember the material better. It helped me make the contents clear in my mind.
+
+
+
+-- It helps me to understand certain concepts for this lecture and to improve how to explain by myself. 
+
+
+
+-- Structures the ideas in you head! 
+
+
+
+-- Trying to explain a topic really helps benchmark our level of understanding of a topic, the chatbot makes it a lot more convenient than trying to explain to a person. The way the chatbot would force you to explain elements step by step and build up in complexity to break down a topic was also really beneficial. Having a deadline for each explanation also gave a a good structure to the course to keep us on track making sure we have at least a decent understanding of each topic as we go along. 
+
+
+
+-- It feels a little bit like the Feynman technic where you try to teach someone what you've learnt, and realize more things by explaining. Having a chatbot that can make critics to your explanation is quite useful.
+
+
+
+-- Allows me to explain without being afraid of making stupid mistakes
+
+
+
+-- Recall of important ideas and better comprehension after explanation
+
+
+
+-- The pretraining and guided chatbot was the best. The chatbot was able to guide the student well.
+
+
+
+-- Re-think about the concepts seen in class and trying to express them in your own words
+
+
+
+-- I think it is interesting to use the chatbot because I really needed to understand the algorithm to answer, it felt comparable to open questions in an exam. This is the opposite of multiple choice questions, where it can feel unfair to have full or no points and where we can't know where we did wrong.
+
+
+
+-- It makes you think about how to explain it and therefore you have to have a better understanding of the material
+
+
+
+-- Personally, I think interacting with intelligent machines is the future and enhances our learning experience a lot. This is like having a personalised tutor ready to train with you at any moment and time. It was a lot fun and I loved the concept. 
+
+
+
+-- Makes sure you understood the topic and it’s details.
+
+
+
+-- It is close to a technique that I usually use (which is explaining the topic to the wall or write down what i know on a blank paper) but I feel less lonely with the chatbot that answers.
+
+
+
+-- Being sure to not miss any important detail about the subject
+
+
+
+-- You are forced to think
+
+
+
+-- The summaries the chatbot gave after having explained the topic correctly are very concise and valuable and show the error one makes during explanantion.
+
+
+
+-- It actually sometimes help to explain to someone to see if you really know what you are talking about. Sometimes you actually learn as you explain so that helps as well
+
+
+
+-- It allows us students to formally write what we understand, and have instant feedback. When we're on our own, without teammates or need analysis regarding what we think, it's sometimes very useful but perhaps not the best practice. 
+
+I have ticked no, but if I can help the CS250 team out regarding the user's experience, feel free to contact me if needed. 
+
+
+
+-- forces you to understand the material and be able to rephrase them in your own words, but also to understand the topics you haven't understood yet.
+
+
+
+-- Challenge own believe of understanding a topic
+
+
+
+-- Learn better
+
+
+
+-- Sometimes I would have forgot a detail of the subject in my explanation. The chatbot telling me that something's missing in the answers gets me to go through the lecture again more thoroughly.
+
+
+
+-- Making sure you understand well the concepts you are explaining
+
+
+
+-- It helps in making sure that one has understand the concepts and helps with organising how one understand the concept by trying different formulations.
+
+
+
+-- I liked it!! but it should still be graded or else I would not do it haha. But I think it helped me study in the end
+
+
+
+-- It makes me try to synthesize my ideas and also make me sure that I understood how the algorithm work.
+Especially, the chatbot always tend to ask questions where I wasn't precise enough which makes me study those particular point again, in order to attain a better understanding (of a step of an algorithm for example).
+
+
+
+-- Realize where your knowledge of the concepts is weaker.
+
+
+
+-- To put words on concepts is a usefull comprehension exercise
+
+
+
+-- Forces a "reality check" in terms of our actual understanding of the course
+
+
+
+-- Having an idea in your idea is one thing, writing it down and actually thinking about how to explain it to someone is very different and very effective for me. Having the chatbot allows that to happen without bothering anyone, at anytime. The best of both worlds.
+
+
+
+-- The chatbot not only validates our explanations, but also forces us to go deeper in understanding, thanks to the conversation mechanism. It can also explain something itself if we ask it.
+
+
+
+-- Forces me to think about the subject thoroughly and articulate my thinking into a structured response.
+
+
+

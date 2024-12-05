@@ -1,0 +1,214 @@
+Question:   **(Optional)** What could be improved?
+
+
+-- instead of just asking for an explanation, i think it would be better if we would be able to solve a problem related to the topic using its help. i also wonder what the environmental implications of such a chatbot are and whether it's worth it
+
+
+
+-- Having fast and easy access to maths symbols if it is in the context of maths related subjects. Possible to add pictures of sketches.
+
+
+
+-- Talk with the chatbot
+
+
+
+-- Maybe being able to talk to the chatbot orally ? 
+
+
+
+
+-- Reduce the quatity of information asked for each exercises (maybe make multiple smaller exercises).
+
+
+
+--  The fact that it stays blocked in a state where whatever you say even it's complete it keeps asking questions should be improved and make it more responsive and "human"
+
+
+
+-- expand the amount of subjects it can help with, if not already done
+
+
+
+-- Adding "asking for a tip option". It may reduce the "geting stuck" phenomena and speed up the process for the student that want to learn but dont have much time.
+
+
+
+-- For some algorithms that require real-problem application (for example graphs), the chatbot could guide us through one and the student could explain the steps to it, for the student to prepare better for applications
+
+
+
+-- I have no particular improvements to add, I think the chatbot is working great.
+
+
+
+-- I think it is all good. The language the chatbot is using is respectful, it gives challenging questions so we can learn the subject in depth. I am very content.
+
+
+
+-- The chat bot ask sometimes to repeat ourselves. We give him an answer  and it ask's a question about a topic that we already explained in detail in the previous answer.
+
+
+
+-- Maybe more practical questions like apply knowledge on examples
+
+
+
+-- Better explain to the class or to whose interested in, how the chatbot and the sys have been created. Opensource, chatgpt, etc?
+
+
+
+-- I think that it could give better explanations at the end on the workings of the algorithms (with e.g. detailed examples) to fully benefit from this tool as studying material
+
+
+
+-- Reduce risk of repetition, rejecting correct answers and accepting wrong answers.
+
+
+
+-- Bugs of connexion and running time
+
+
+
+-- The fact that the chatbot can't be used to pass the test on its own, without you having to do any work.
+
+
+
+-- Explaining how the chatbot check the correctness of the answer.
+
+
+
+-- Sometimes it is hard to finish the conversation when we've talked about everything. A mechanism for better "end of discussion" detection could be only a great improvement.
+
+
+
+-- a place where you can see you discussions
+
+a way to talk to the bot to understand a topic and a way to talk to the bot to explain the concept and be sure you understood it
+
+
+
+-- Sometimes we have to say "You're welcome" so that it registers that the conversation ended. Here's an example (https://cs250.epfl.ch/a/j575kyh1fqdr93vgyefae6agvh6pwsk0)
+
+
+
+-- Make the bot smarter, it should be smart enough to find errors in a student's understanding of a subject. I'm unusre if fhat's possible with llms.
+
+
+
+-- Randomly make people sometimes explain to the chatbot, and sometimes to real people (e.g. other students), to see if they can tell whether or not it's a real person, and whether or not using a chatbot is more valuable than a real person to explain concepts.
+
+
+
+-- -
+
+
+
+-- Make the chatbot available during exam periods to re-familiarize yourself with the course. In addition, it would be interesting to be able to talk with the chatbot even after finishing solving the questionnaire if you have other questions for example
+
+
+
+-- Sometimes the chatbot asked you a question about something that you just said in your previous answer. For example, you would explain an algorithm and in the middle of the explication tell the time complexity of the algorithm but the chatbot would directly say something like "Great [...] and what is the time complexity of the algorithm". Even though it is not something that is really wrong sometimes it is annoying to have to say things multiple times. 
+
+
+
+-- Sometimes the chat bot wasnt available 
+
+
+
+-- The quizzes at the end were usually easy, so I'm not sure they accurately measured the difference between reading the text and explaining to the chatbot.
+
+
+
+-- It was hard to see which algorithm should I use or how to implement it. It should be good to have a question on how to implement it step by step maybe. Like during the lecture, before answering an algorithm we were talking about the steps that we should implement.
+
+
+
+-- Make the possibility to upload images
+
+
+
+-- Maybe making it a bit harder with questions that ensure a deeper understanding of the topics. 
+
+
+
+-- less pressure on answers
+
+
+
+-- Idk
+
+
+
+-- I really enjoyed it!
+
+
+
+-- I think it could be better if the chatbot was asking more specific questions to build to a final answer (which was sometimes present, for example when I got asked the time and space complexities)
+
+
+
+-- Not asking for you to repeat something you already said
+
+
+
+-- Better handling of finished explanation
+
+
+
+-- If the quality of the chatbot could be improved that would make the experience even more valuable. 
+
+
+
+-- The site crashed quite often and I had to redo my whole conversation.
+
+
+
+-- The chatbot could be more explicit sometime on what is expected to complete the task.
+
+
+
+-- There was a bug where the bot ws stuck and we had to send a second message to get it to talk again
+
+
+
+-- removing the bot approval threshold
+
+
+
+-- Maybe the leading on to a certain point of the algorithm
+
+
+
+-- Perhaps specify how deep the details should be, so that the use doesn't proceed to give a superficial and general explanation of it  ? 
+
+
+
+-- Not much in my opinion
+
+
+
+-- Intelligence
+
+
+
+-- The criterias to convince him more easily 
+
+
+
+-- i think its okay that I can fool it with chatgpt, because regardless it forces me to learn about the concept. don't make it harder or else it might get annoying for students...
+
+
+
+-- Very minor problem, but in terms of UX, sometimes clicking on a quiz/chat session would make the page refresh, forcing us to click again. The same issue happened again when accessing this questionnaire.
+
+
+
+-- Similar to some popular genAIs, providing a link to the proof of what the chatbot answers would be very reassuring, especially in nuanced topics.
+
+
+
+-- The chatbot should always check if our explanations come from ourselves and not from the Internet. Sometimes it let us go to the quizes, even if we just copy-paste a paragraph from wikipedia.
+
+
+

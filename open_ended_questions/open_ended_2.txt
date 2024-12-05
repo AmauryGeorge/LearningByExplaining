@@ -1,0 +1,284 @@
+Question:   **(Optional)** What are the limitations?
+
+
+-- It didn't always get what i meant and sometimes made me repeat myself. It was also pretty easy to dupe if i didn't want to put in the time to properly understand what i was explaining but just repeated the lecture explanation.
+
+
+
+-- I believe it will always be better to talk to someone rather than a chatbot, as long as that person is nearly as qualified or more qualified than you on the topic. The conversation with the chatbot is limited in the sense that it doesn't go in to too much depth and doesn't relate to other concepts.
+
+
+
+-- Especially for maths related concepts, explaining only using text (without drawings etc.) can be difficult and therefore it can be frustrating and too time consuming if the input format makes it hard to explain a concept.
+
+
+
+-- Having to explain by writing. It would be great if we can talk with the chatbot 
+
+
+
+-- The topic
+
+
+
+-- Sometime it can be a bit long to type the whole explanation and thus discouraging to really formulate everything by yourself,
+
+
+
+-- Sometimes it stays blocked in a state where whatever you say even it's complete it keeps asking questions
+
+
+
+-- Potentially the range of topics, for example, i am not sure if the chat bot is capable of helping with understanding code languages
+
+
+
+-- Sometimes it cannot recognize the mistake I make in a long conversation
+
+
+
+-- Getting stuck sometimes without knowing the reason may be frustrating.
+
+
+
+-- The chatbot is not really tailor-made for wrong answers and explanations, which mean that if interpretation is wrong or the subject wrongly understood, the chatbot won't be able to correct us.
+
+
+
+-- It's still a chatbot, so there's limitations to the complexity of its questions (if he doesn't understand he won't keep asking questions forever, at some point he points you to the answer).
+
+
+
+-- I think what it offers is more than enough.
+
+
+
+-- Sometimes annoying to have to repeat multiple times the same things to the chatbot because he isn’t satisfied of the answer.
+
+
+
+-- The different questions and assessed topics. There is a possibility to go deeper in the complexity of question. Also, it's just about theory
+
+
+
+-- Some questions were not totally clear (would help to have a greater sample of questions with answers to study)
+
+
+
+-- Sometimes it would repeat itself, but it was still good.
+
+
+
+-- Sometimes we say something false and he does not really correct us but still lets us access the quiz
+
+
+
+-- The chatbot might repeat a question that it has already asked, if your answer touches on the previous concept. It is also sometimes "rejects" an answer that explains the concept (but the chatbot didn't understand it) and sometimes lets an answer through that got certain aspects wrong.
+
+
+
+-- Sometimes they were bug, it was running for a long time.
+Sometimes, even though we understand the subject, we can be stuck because the chatbot want a very specific answer
+
+
+
+-- Sometimes the bot doesn't seem to understand what we mean and ask questions about things we already said.
+
+
+
+-- It happens that the chatbot acceepts wrong anwers, but the feedback at the end catch these failures
+
+
+
+-- We can sometimes skip homework by hacking the chatbot, so that it responds to its own request.
+
+
+
+-- Sometimes the chatbot is waiting for keywords to validate the answer so it can be frustrating not understanding why the answer isn't enough.
+
+
+
+-- The chatbot sometimes misunderstood or did not detect errors in my explanations (it was rare though)
+
+
+
+-- As a first approach to recalling notions from the course, it's a good technique for reworking key concepts. But I have the impression that to prepare for an exam, explaining to a chatbot can leave us in our comfort zone.
+
+
+
+-- it would be nice to have access to what you already said
+
+sometimes it doesn't work and you have to restart everything:/
+
+
+
+-- I feel like the AI is inconsistent because there has been some times when depending on my initial explanation, it would not confirm or question my understanding on the same level of detail
+
+
+
+-- Sometimes chatbot will crush due to large quantities of using.
+
+
+
+-- When I explain something to him, but it turns out I was wrong, his explanation was somethimes not clear to me.
+
+
+
+-- The idea of using a chatbot is good, however I felt like explaining concept to it could actually be mislead on small detail since he would be kind to you and not clearly state that little subtle detail are wrong. But all these little technicalities auditioned at the end can cause pretty important drift in the understanding of an algo
+
+
+
+-- The chatbot is not that intelligent, can be frauded and sometimes requires answers to be dumbed down even more.
+
+
+
+-- There is not much limitation
+
+
+
+-- I believe that it is good when the themes are not too complex and you can easily explain your answer with words. So if it becomes too complex I don't think that the chatbot will be of great help.
+
+
+
+-- If you copy paste Wikipedia the bot will not force you to reformulate
+
+
+
+-- Occasionally the chat bot let you through less strictly than other time.
+
+
+
+-- I don't think the chatbot can make a student understand the materials in the first place, but only help them improve their existing understanding.
+
+
+
+-- Some questions were repeating from the lecture, it should be good to have more various questions on the subject.
+
+
+
+-- You cannot draw pictures, or show graphs
+
+
+
+-- Sometimes, the chatbot gets in a loop of bad responses 
+
+
+
+-- The limitations were its capacity to understand long detailed explanations and having to break it down for it to understand but that can also be seen as an advantage. An other limitation was that sometimes it was too easy to get the chatbot to think we had properly understood a topic even if it was not the case, it would sometimes finish the session too easily without pushing to hard. 
+
+
+
+-- Like most of the AIs, it is subject to hallucinations and sometimes, even though my explanation was right, it tried to correct me while saying the same thing I was.
+
+
+
+-- Grading the results of the chat did make it hard to fully use the chatbot to learn but it is a small price to pay.
+
+
+
+-- If we give a very limited explanation, the chatbot won’t go into a deeper understanding of the material and test you on newer concepts. 
+
+
+
+-- Sometimes I would need to repeat the same answer / paraphrase it, because I answered multiple questions "en amont" without knowing it.
+
+
+
+-- I believe the limitation is mostly in the development of an idea phase, where you would brainstorm jointly with an assistant to slowly converge towards the right solution 
+
+
+
+-- In the end, I just read the slides again and basically wrote the algorithm again. 
+
+
+
+-- Sometimes it expects you to say some specific detail that you don t know and so it keeps asking but doesn t really point you in the right direction so it s hard to know what it wants
+
+
+
+-- Sometimes he hallucinates and don’t want you to be finished explaining
+
+
+
+-- The chatbot is not the most advanced for the moment. Sometimes it hallucinates as many ML models do. 
+
+
+
+-- Sometimes the chatbot was a bit naïve and could be tricked into giving you the answer when you had not fully explained your reasoning. 
+
+
+
+-- Sometimes I feel like the chatbot expect a really specific answer, and I do not know what I should add to end the conversation.
+
+
+
+-- sometimes the chatbot accepts wrong answers 
+
+
+
+-- The bot sometimes wants too mucj detail
+
+
+
+-- When you understand what the algorithm does and everything but you don't know how to say it, or the chatbot doesn't understand underlying expressions you employ
+
+
+
+-- Sometimes, the level of details to concur to a full explanation is not specified, therefore the user's first trial is perceived as not correct in regards to the comprehension of the algorithm, which was sometimes a bit frustrating :))   
+Another limitation was the way you could biais the bot, so that it was feeding you with the answer or something similar (iirc). 
+
+
+
+-- it sometimes gives repetitive answers, ie. impression that it hasn't actually read what we sent.
+
+
+
+-- Sometimes it‘s wrong and it usually goes to linearly, doesn‘t understand when there is base knowledge missing.
+
+
+
+-- The chat cannot explain in detail 
+
+
+
+-- Chatbot got once stuck after I answered all his questions. Other than that my experience with it was very pleasant.
+
+
+
+-- There are a lot of people who simply will use another LLM to discuss with the chatbot and try to convince him.
+
+
+
+-- The chatbot sometimes does not understand even though it is understandable. I am also worried about the accuracy of it.
+
+
+
+-- Easy to fool with chatgpt
+
+
+
+-- The fact that sometimes it doesn't really understand what you wrote and that writing the same thing again will this work.
+It makes it a little bit frustrating because you look at your theory again just to copy paste your previous answer which will be this time understood in the correct way.
+
+
+
+-- The chatbot sometimes asked me info I already gave him.
+
+
+
+-- it is just a bot so sometimes it doesn't understand some turn of phrase 
+
+
+
+-- Sometimes explanations that were considered good by my peers were deemed insufficient by the chatbot
+
+
+
+-- There is always a possibility that the chatbot will answer or accept false information. This is quite scary, and can slow down the confidence we have in our knowledge. Moreover, having to write down precisely what we think is a more tedious task than explaining to a friend. In some way, it could be a positive point, but it can be demotivating and simply lead to students not answering at all.
+
+
+
+-- The chatbot is sometimes very quick to say "Okay you understood" even though I just used the keywords it expected in a sentence or something. But that's a good thing as well, it can be very frustrating to fail to explain for several tries.
+
+
+
